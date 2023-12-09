@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),TECNO-KI7)
+ifeq ($(TARGET_DEVICE),spark10pro)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif

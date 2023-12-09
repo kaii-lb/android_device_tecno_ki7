@@ -1,4 +1,4 @@
-# Android device tree for TECNO TECNO KI7 (TECNO-KI7)
+# Android device tree for TECNO TECNO KI7 (spark10pro)
 
 ```
 #

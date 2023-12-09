@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TECNO-KI7.mk
+    $(LOCAL_DIR)/omni_spark10pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-KI7-user \
-    omni_TECNO-KI7-userdebug \
-    omni_TECNO-KI7-eng
+    omni_spark10pro-user \
+    omni_spark10pro-userdebug \
+    omni_spark10pro-eng
