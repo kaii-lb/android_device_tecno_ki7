@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_spark10pro.mk
+    $(LOCAL_DIR)/twrp_spark10pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_spark10pro-user \
-    omni_spark10pro-userdebug \
-    omni_spark10pro-eng
+    twrp_spark10pro-user \
+    twrp_spark10pro-userdebug \
+    twrp_spark10pro-eng
