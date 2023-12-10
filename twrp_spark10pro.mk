@@ -16,9 +16,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/tecno/spark10pro/device.mk)
 
 PRODUCT_DEVICE := spark10pro
-PRODUCT_NAME := omni_spark10pro
+PRODUCT_NAME := twrp_spark10pro
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := TECNO KI7
+PRODUCT_MODEL := KI7
 PRODUCT_MANUFACTURER := tecno
 
 PRODUCT_GMS_CLIENTID_BASE := android-tecno
